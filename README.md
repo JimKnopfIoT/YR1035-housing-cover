@@ -15,7 +15,10 @@ Requirements:
 <img src="IMG_20250116_164944.jpg" width="220">
 <img src="Bildschirmfoto vom 2025-01-16 16-51-14.jpg" width="220">
 <img src="IMG_20250116_173653.jpg" width="220">
-<img src="IMG_20250117_202648.jpg" width="220">
+</p>  
+<p align="center">
+<img src="IMG_20250117_202047.jpg" width="220">
 <img src="Iso7.png" width="220">
 <img src="Iso5.png" width="220">
+<img src="IMG_20250117_202648.jpg" width="220">  
 </p>  
